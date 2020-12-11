@@ -1,0 +1,56 @@
+body{
+    background-color:#df5f9a;
+}
+.titulo{
+    color: white;
+    background-color: #d34484;
+    width: 100%;
+    padding:20px ;
+}
+.conocenos{
+    text-align:center;
+    font-size: 100px;
+    font-family:Century Gothic;
+    padding:30px ;
+    flex: auto;
+    margin-right: 600px;
+    font-weight: bold;
+    float: right;
+}
+logo{
+    float: left;
+}
+.texto{
+    text-align:center;
+    font-size: 30px;
+    font-family:Century Gothic;
+    padding:0px ;
+    flex: auto;
+    color: white;
+    margin-top: 25px;
+    }   
+.principal{
+    color:white;
+    font-size: 30px;
+    font-family:Century Gothic;
+    width: 20%;
+    margin: 60px auto;
+    padding:10px ;
+    border-radius: 10px;
+    text-align: center;
+    border-width: 8px;
+    border-color: white;
+    border-style: solid;
+}
+.fotos{
+    text-align: center;
+}
+.foto1{
+    margin-right: 40px;
+}
+.foto2{
+    margin-left: 40px;
+}
+.boton{
+    color: white;
+}

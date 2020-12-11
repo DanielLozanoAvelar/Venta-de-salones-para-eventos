@@ -1,0 +1,134 @@
+body{
+    background-color:#df5f9a;
+}
+.titulo{
+    color: white;
+    background-color: #d34484;
+    width: 100%;
+    padding:20px ;
+}
+logo{
+    float: left;
+}
+.conocenos{
+    text-align:center;
+    font-size: 50px;
+    font-family:Century Gothic;
+    padding:0px ;
+    flex: auto;
+    margin-right: 600px;
+    font-weight: bold;
+    float: right;
+    margin-top: 50px;
+}
+.direccion{
+    text-align:center;
+    font-size: 25px;
+    font-family:Century Gothic;
+    padding:0px ;
+    margin-right: 550px;
+    margin-top: -50px;
+    margin-bottom: 200px;
+    font-weight: bold;
+    float: right;
+}
+.lospinosazteca{
+    border-width: 8px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+.sal{
+    font-size: 40px;
+    font-family:Century Gothic;
+    float: left;
+    color: white;
+    font-weight: bold;
+    margin-top: -200px;
+    margin-left: 430px;
+}
+.text{
+    font-size: 20px;
+    font-family:Century Gothic;
+    float: left;
+    color: white;
+    margin-top: -150px;
+    margin-left: 430px;
+}
+.reservar{
+    color:white;
+    font-size: 30px;
+    font-family:Century Gothic;
+    width: 19%;
+    margin: 0px auto;
+    padding:0px ;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    margin-top: -50px;
+    margin-left: 430px;
+    text-align: center;
+}
+.sal2{
+    font-size: 40px;
+    font-family:Century Gothic;
+    float: left;
+    color: white;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-left: 28px;
+}
+.text2{
+    font-size: 20px;
+    font-family:Century Gothic;
+    float: left;
+    color: white;
+    margin-top: 130px;
+    margin-left: -375px;
+}
+.diamanteazteca{
+    border-width: 8px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 130px;
+    float: left;
+}
+.reservar3{
+    color:white;
+    font-size: 30px;
+    font-family:Century Gothic;
+    width: 19%;
+    margin: 0px auto;
+    padding:0px ;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    margin-top: 250px;
+    margin-left: 430px;
+    text-align: center;
+}
+.boton{
+    color: white;
+}
+.principal{
+    color:white;
+    font-size: 30px;
+    font-family:Century Gothic;
+    width: 20%;
+    margin: 60px auto;
+    padding:10px ;
+    border-radius: 10px;
+    text-align: center;
+    border-width: 8px;
+    border-color: white;
+    border-style: solid;
+    float: right;
+    margin-top: -300px;
+    margin-right: 300px;
+}

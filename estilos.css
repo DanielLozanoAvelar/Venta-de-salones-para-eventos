@@ -1,0 +1,66 @@
+body{
+    background: url(fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo1{
+color:white;
+font-size: 50px;
+font-family:Century Gothic;
+width: 30%;
+margin: 0px auto;
+padding:20px ;
+border-radius: 10px;
+text-align: center;
+border-width: 8px;
+border-color: white;
+border-style: solid;
+font-weight: bold;
+}
+.conocenos{
+color:white;
+font-size: 50px;
+font-family:Century Gothic;
+width: 20%;
+margin: 60px auto;
+padding:20px ;
+border-radius: 10px;
+text-align: center;
+border-width: 8px;
+border-color: white;
+border-style: solid;
+font-weight: bold;
+float: left;
+margin-left: 450px;
+text-decoration: none;
+}
+.reservar{
+color:white;
+font-size: 50px;
+font-family:Century Gothic;
+width: 20%;
+margin: 60px auto;
+padding:20px ;
+border-radius: 10px;
+text-align: center;
+border-width: 8px;
+border-color: white;
+border-style: solid;
+font-weight: bold;
+float: right;
+margin-right:450px ;
+}
+.pie{
+color:white;
+font-size: 20px;
+font-family:Century Gothic;
+width: 100%;
+margin: 150px auto;
+padding:20px ;
+border-radius: 10px;
+text-align: center;
+margin-top: 400px;
+}
+.boton{
+    color: white;
+}
